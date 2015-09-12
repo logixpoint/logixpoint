@@ -1,0 +1,91 @@
+.header-area {
+  background: url(../../images/header-top.png) no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+}
+.white {
+  background: #34495e;
+}
+.bracket-title {
+  color: #fff;
+}
+.quality-heading {
+  color: #a2b7cb;
+}
+.quality-heading-text {
+color: #fff;
+}
+.quality-text {
+  color: #a2b7cb;
+}
+.pro-title {
+  color: #fff;
+}
+.pro-desc {
+color: #a2b7cb;
+}
+.how-background {
+  background: #2c3e50 url(../../images/how-background2.png) no-repeat;
+  background-position: center;
+  background-size: 100% 866px;
+}
+
+.how-i-work-background {
+    background: #2c3e50;
+    background-position: center;
+    background-size: 100% 866px;
+}
+
+.my-services-background {
+    background: #2c3e50;
+    background-position: center;
+    background-size: 100% 866px;
+}
+
+.new1 {
+  background: url(../../images/ex-bg.jpg) no-repeat;
+  background-size: 100%;
+  background-position: 0px -244px;
+}
+.we-do {
+color: #a2b7cb;
+}
+.test-des{
+  color: #a2b7cb;
+}
+.weblink a {
+  color: #22a28d;
+}
+.weblink a:hover, .weblink a:focus, .weblink a:active, .weblink a:visited {
+  color: #22a28d;
+}
+.new2{
+  background: #2c3e50;
+}
+.email {
+  color: #fff;
+}
+.email:hover, .email:focus, .email:active, .email:visited {
+  color: #fff;
+}
+.info-desc {
+  color: #fff;
+}
+.bright-red {
+  background: #e74c3c;
+}
+.dark-red {
+  background: #2c3e50;
+}
+.footer-text {
+  color: #a2b7cb;
+}
+.hilight-text {
+  color: #a2b7cb;
+}
+.dis-none2{
+  display: none;
+}
+.line-background{
+    background: #2c3e50
+}
